@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+// This is universal styles 
 body {
     background-color: #d9dcd6;
 }
-
+// These are header styles
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+// These are hero styles
 hero {
     height: 800px;
     width: 100%;
@@ -58,7 +58,7 @@ hero {
     background-size: cover;
     background-position: center;
 }
-
+// These are floating styles
 float-left {
     float: left;
     margin-right: 25px;
@@ -68,13 +68,13 @@ float-right {
     float: right;
     margin-left: 25px;
 }
-
+// These are content styles
 content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+// These are benefit styles, 
 benefits {
     margin-right: 20px;
     padding: 20px;
@@ -115,7 +115,7 @@ benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+// These are benefit styles
 alt=benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -133,7 +133,7 @@ alt=benefit-cost img {
     margin: 10px auto;
     max-width: 150px;
 }
-
+// These are search engine styles
 search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -164,7 +164,7 @@ social-media-marketing {
 alt=search-engine-optimization img {
     max-height: 200px;
 }
-
+// These alt attributes
 alt=online-reputation-management img {
     max-height: 200px;
 }
@@ -187,7 +187,7 @@ social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+// These are footer styles 
 footer {
     padding: 30px;
     clear: both;
